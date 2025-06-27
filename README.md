@@ -1,2 +1,6 @@
-# adp-generate-yearly-report
-UiPath Automation Developer Professional Training (v2023.10) - Practice with REFramework - Generate Yearly Report
+# Generate Yearly Report
+
+> [!NOTE]  
+> This repository is a practice with UiPath REFramework belonging to *Automation Developer Professional Training (v2023.10)*.
+
+For more info please check *Generate Yearly Report - Process Design Document.pdf* in the *doc* folder.
