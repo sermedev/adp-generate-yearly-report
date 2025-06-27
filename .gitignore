@@ -1,0 +1,6 @@
+# Local and temporal folders
+src/**/.local/
+
+# IDEs configurations
+.idea/
+.vscode/
