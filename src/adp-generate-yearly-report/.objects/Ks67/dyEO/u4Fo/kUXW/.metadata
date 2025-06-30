@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Yearly-Report-2024-FR45…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kUXW7piPDUSGCyEgtt9R5g",
+  "Reference": "mWNqtMlsTUG5oOsZthWJAQ/kUXW7piPDUSGCyEgtt9R5g",
+  "ParentRef": "mWNqtMlsTUG5oOsZthWJAQ/u4FoU6cCxkSWkOxFSxPvCw",
+  "Created": "2025-06-30T10:47:13.2744636Z",
+  "Updated": "2025-06-30T10:47:13.2744636Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a79DwFQzvEKprVcQYXba5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="5803f0a3-6467-45db-8fd8-28c2c456a863" DesignTimeRectangle="336, 768, 273, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='2024' aria-role='option' tag='A' /&gt;" Guid="193d8210-918d-4e39-b31f-f291d8c144dd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="39b8ba2f6c84888abd15283a1e4acd75.png" xmlns="">0y6d4TdirmUSraZ-FJKeg1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ICNm4k3QF0a0RlRdmXyb0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106590773" CVScreenId="d71731e7-76d5-4798-926c-9db2c643710c" CvType="AnyWordGroup" DesignTimeRectangle="429, 613, 81, 17" ElementType="Text" Guid="8e854718-130c-4dbe-a893-4f8a7b259ad6" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="CV" SemanticSelectorArgument="Vendor Information: TaxID FR453231, Name Minitronic Systems, Address Rue Saint Denis 68, City Paris, France" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d71731e7-76d5-4798-926c-9db2c643710c" CvTextArea="371, 614, 53, 17" CvTextArgument="TaxID:" CvType="Text" DesignTimeRectangle="373, 613, 52, 20" FuzzySelectorArgument="&lt;webctrl aaname='TaxID:' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='TaxID:' /&gt;" Guid="d63241fd-2c15-4149-8767-147ded5c015d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="407775974b1da47c34edfadfee2d6b8c.png" xmlns="">0Q9AHuGfpl0qkhD2U2zgjbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

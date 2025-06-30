@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IvXNonlG5k-x2SRTIhCJSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="afdd35d9-96b5-4fa0-81ed-ec5e79585746" DesignTimeRectangle="584, 670, 10, 5" FullSelectorArgument="&lt;webctrl class='caret' parentid='searchForm' /&gt;" Guid="65ce0ec0-268f-49a0-adaf-2c02e743ab8b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="afdd35d9-96b5-4fa0-81ed-ec5e79585746" CvTextArea="332, 624, 60, 16" CvTextArgument="Month:" CvType="Text" DesignTimeRectangle="334, 620, 59, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Month:' /&gt;" Guid="86e3b38a-6b76-4b36-9b61-a854d2622e34" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f6f56e07499c8a4548b4d26585fb80fd.png" xmlns="">0rtSNwEntfEiTJDBTAOEVkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

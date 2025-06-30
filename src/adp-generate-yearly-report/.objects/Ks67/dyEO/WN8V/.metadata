@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Edge ACME System 1 - Update",
+  "Type": "Screen",
+  "Id": "WN8Vs0Ga20eJr8EZjbid3A",
+  "Reference": "mWNqtMlsTUG5oOsZthWJAQ/WN8Vs0Ga20eJr8EZjbid3A",
+  "ParentRef": "mWNqtMlsTUG5oOsZthWJAQ/dyEOLy-bJ0K1kgxydtSrug",
+  "Created": "2025-06-30T11:29:10.7948927Z",
+  "Updated": "2025-06-30T13:49:28.8686348Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

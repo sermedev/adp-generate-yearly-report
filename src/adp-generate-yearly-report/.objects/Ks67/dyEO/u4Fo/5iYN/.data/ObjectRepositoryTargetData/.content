@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lO0vgQP590GB3aoVlPrQBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106590773" CVScreenId="1bbe3573-c479-4466-a7ab-9b27a3c4f1e6" CvTextArea="90, 756, 87, 21" CvTextArgument="Completed" CvType="Text" DesignTimeRectangle="92, 754, 85, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Completed' class='text' tag='SPAN' /&gt;" Guid="372364fd-c673-44c7-8abb-168a0a0a57bb" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d06fdc2f81255fa605901f46b2a8dd6.png" xmlns="">0nO39XdC_P06lkjr9m2BVwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

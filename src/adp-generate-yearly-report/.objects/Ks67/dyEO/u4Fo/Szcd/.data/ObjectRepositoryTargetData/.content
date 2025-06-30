@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uFzngmu3KEWZlPrw5ZcReg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106590773" CVScreenId="a587014a-4359-4c49-9363-7af4a1f3073a" DesignTimeRectangle="247, 309, 1425, 61" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' visibleinnertext='Work Items - Work Item Details' /&gt;" Guid="111379a4-1fd9-4f50-b2ce-9146ac898877" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="3f62265d27befa6ee7958673498ecba4.png" xmlns="">0ktBPiultOk-xUHxTzpMN8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

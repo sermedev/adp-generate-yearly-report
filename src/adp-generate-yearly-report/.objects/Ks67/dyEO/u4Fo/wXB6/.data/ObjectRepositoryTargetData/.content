@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZmayZMFNE06aRZvsRIwNTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="ad10ee0b-7ca5-45bf-b5c1-3c1f58c2945d" DesignTimeRectangle="584, 670, 10, 5" FullSelectorArgument="&lt;webctrl class='caret' parentid='searchForm' tag='SPAN' /&gt;" Guid="58932401-ffca-4f80-9e36-48bed50aba9f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ad10ee0b-7ca5-45bf-b5c1-3c1f58c2945d" CvTextArea="332, 624, 45, 16" CvTextArgument="Year:" CvType="Text" DesignTimeRectangle="334, 620, 43, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Year:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Year:' /&gt;" Guid="22617f2a-ceb9-4cfd-9bb9-979bfe460720" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="da949454fd13e518ed2f87979fad8acc.png" xmlns="">0RzsI7tp7i0ezJVguB7XDBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

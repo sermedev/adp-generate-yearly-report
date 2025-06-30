@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4CIsgujAdkGyvslO8frdUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="aecfc184-026d-409f-97df-fd3fa2074989" CvType="AnyWordGroup" DesignTimeRectangle="707, 177, 282, 17" ElementType="Text" Guid="d5f36330-11ba-4fcc-a006-c4fc97011549" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Upload Yearly Report - Profile 1 - Microsoft​ Ed*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="aecfc184-026d-409f-97df-fd3fa2074989" CvTextArea="707, 156, 294, 18" CvTextArgument="Report was uploaded - confirmation id is" CvType="Text" DesignTimeRectangle="707, 156, 294, 18" ElementType="Text" Guid="7aa1ac88-d2a3-4297-8654-683b0e8b5063" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="484aa207852be5e0f53edb0819b480f3.png" xmlns="">05efYnqf4UEKTvQD8q3lmPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
